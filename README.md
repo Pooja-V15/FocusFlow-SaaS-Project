@@ -111,49 +111,49 @@ cd FocusFlow
 npm install
 npm run dev
 
-🔄 Workflow
+# 🔄 Workflow
 
 Register → Login → Dashboard → Create Tasks → Plan Schedule → Focus Session → Analytics → Earn XP
 
-📊 Project Statistics
+# 📊 Project Statistics
 Metric	Value
 Project Type	Full Stack Web App
 Platform	Web
 Frontend	HTML, CSS, JavaScript
 Backend	Node.js + Express
 Database	MongoDB
-🎯 Target Audience
+# 🎯 Target Audience
 Students
 Professionals
 Freelancers
 Developers
 Content Creators
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 AI Chat Assistant
 Google Calendar Sync
 Voice Commands
 Mobile App
 Team Collaboration
 Offline Support
-👨‍💻 Developer
+# 👨‍💻 Developer
 
-Pooja V
+Pooja V  
 
 Full Stack Developer
 
-🔗 Connect
+# 🔗 Connect
 GitHub: https://github.com/Pooja-V15
 LinkedIn: https://www.linkedin.com/in/pooja-v-32711a304
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! Fork the repository, create a feature branch, commit your changes, and open a pull request.
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
 <div align="center">
-⭐ If you like this project, consider giving it a star!
+# ⭐ If you like this project, consider giving it a star!
 
 Built with ❤️ by Pooja V
 
